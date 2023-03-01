@@ -1,0 +1,6 @@
+Name: noor
+Age: 17
+Matric Marks: 900
+FSC Marks: 980
+Ecat Marks: 200
+Percentage: 89
